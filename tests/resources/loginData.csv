@@ -1,0 +1,4 @@
+*** Test Cases ***;${UN};${PSWD}
+Invalid username and valid password;afbsggh;admin123
+Valid username and invalid password;Admin;whjhjg
+Invalid username and password;inggyjgj;ijhjgjgj
