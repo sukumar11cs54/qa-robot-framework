@@ -13,7 +13,6 @@ Test Template   Validate the login functinality with invalid credentials
 
 *** Test Cases ***
 Validate the login functionality of HRM application
-    open the browser with HRM application
     enter the valid credentails of the users
     verify the user successfully login into the application
 #below lines will only execute with default user name and password when datadriver failed to fetch data
